@@ -1,0 +1,4 @@
+function addition(name,age){
+    return " hrloo " + name + " im " + age + " yaers old ";
+}
+console.log(hrba("ayoub",21 );
